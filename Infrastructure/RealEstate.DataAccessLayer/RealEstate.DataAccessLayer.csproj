@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RealEstate.DataProvider\RealEstate.DataProvider.csproj" />
+    <ProjectReference Include="..\RealEstate.Dto\RealEstate.Dto.csproj" />
+  </ItemGroup>
+
+</Project>

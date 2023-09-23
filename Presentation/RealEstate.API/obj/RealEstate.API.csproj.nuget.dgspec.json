@@ -1,0 +1,447 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Source\\RealEstate.API\\Presentation\\RealEstate.API\\RealEstate.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.BusinessLayer\\RealEstate.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.BusinessLayer\\RealEstate.BusinessLayer.csproj",
+        "projectName": "RealEstate.BusinessLayer",
+        "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.BusinessLayer\\RealEstate.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Akdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataAccessLayer\\RealEstate.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataAccessLayer\\RealEstate.DataAccessLayer.csproj"
+              },
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataAccessLayer\\RealEstate.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataAccessLayer\\RealEstate.DataAccessLayer.csproj",
+        "projectName": "RealEstate.DataAccessLayer",
+        "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataAccessLayer\\RealEstate.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Akdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataProvider\\RealEstate.DataProvider.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataProvider\\RealEstate.DataProvider.csproj"
+              },
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataProvider\\RealEstate.DataProvider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataProvider\\RealEstate.DataProvider.csproj",
+        "projectName": "RealEstate.DataProvider",
+        "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataProvider\\RealEstate.DataProvider.csproj",
+        "packagesPath": "C:\\Users\\Akdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataProvider\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj",
+        "projectName": "RealEstate.Dto",
+        "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj",
+        "packagesPath": "C:\\Users\\Akdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Ioc\\RealEstate.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Ioc\\RealEstate.Ioc.csproj",
+        "projectName": "RealEstate.Ioc",
+        "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Ioc\\RealEstate.Ioc.csproj",
+        "packagesPath": "C:\\Users\\Akdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.BusinessLayer\\RealEstate.BusinessLayer.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.BusinessLayer\\RealEstate.BusinessLayer.csproj"
+              },
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataAccessLayer\\RealEstate.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataAccessLayer\\RealEstate.DataAccessLayer.csproj"
+              },
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataProvider\\RealEstate.DataProvider.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.DataProvider\\RealEstate.DataProvider.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Source\\RealEstate.API\\Presentation\\RealEstate.API\\RealEstate.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\RealEstate.API\\Presentation\\RealEstate.API\\RealEstate.API.csproj",
+        "projectName": "RealEstate.API",
+        "projectPath": "C:\\Source\\RealEstate.API\\Presentation\\RealEstate.API\\RealEstate.API.csproj",
+        "packagesPath": "C:\\Users\\Akdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\RealEstate.API\\Presentation\\RealEstate.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.BusinessLayer\\RealEstate.BusinessLayer.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.BusinessLayer\\RealEstate.BusinessLayer.csproj"
+              },
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Dto\\RealEstate.Dto.csproj"
+              },
+              "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Ioc\\RealEstate.Ioc.csproj": {
+                "projectPath": "C:\\Source\\RealEstate.API\\Infrastructure\\RealEstate.Ioc\\RealEstate.Ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

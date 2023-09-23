@@ -1,0 +1,17 @@
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\obj\Debug\net7.0\RealEstate.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\obj\Debug\net7.0\RealEstate.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\obj\Debug\net7.0\RealEstate.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\obj\Debug\net7.0\RealEstate.DataAccessLayer.AssemblyInfo.cs
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\obj\Debug\net7.0\RealEstate.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\bin\Debug\net7.0\RealEstate.DataAccessLayer.deps.json
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\bin\Debug\net7.0\RealEstate.DataAccessLayer.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\bin\Debug\net7.0\RealEstate.DataAccessLayer.pdb
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\bin\Debug\net7.0\RealEstate.DataProvider.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\bin\Debug\net7.0\RealEstate.Dto.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\bin\Debug\net7.0\RealEstate.DataProvider.pdb
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\bin\Debug\net7.0\RealEstate.Dto.pdb
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\obj\Debug\net7.0\RealEstate.DataAccessLayer.csproj.CopyComplete
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\obj\Debug\net7.0\RealEstate.DataAccessLayer.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\obj\Debug\net7.0\refint\RealEstate.DataAccessLayer.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\obj\Debug\net7.0\RealEstate.DataAccessLayer.pdb
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataAccessLayer\obj\Debug\net7.0\ref\RealEstate.DataAccessLayer.dll

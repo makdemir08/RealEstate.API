@@ -1,0 +1,15 @@
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\bin\Debug\net7.0\RealEstate.DataProvider.deps.json
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\bin\Debug\net7.0\RealEstate.DataProvider.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\bin\Debug\net7.0\RealEstate.DataProvider.pdb
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\bin\Debug\net7.0\RealEstate.Dto.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\bin\Debug\net7.0\RealEstate.Dto.pdb
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\obj\Debug\net7.0\RealEstate.DataProvider.csproj.AssemblyReference.cache
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\obj\Debug\net7.0\RealEstate.DataProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\obj\Debug\net7.0\RealEstate.DataProvider.AssemblyInfoInputs.cache
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\obj\Debug\net7.0\RealEstate.DataProvider.AssemblyInfo.cs
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\obj\Debug\net7.0\RealEstate.DataProvider.csproj.CoreCompileInputs.cache
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\obj\Debug\net7.0\RealEstate.DataProvider.csproj.CopyComplete
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\obj\Debug\net7.0\RealEstate.DataProvider.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\obj\Debug\net7.0\refint\RealEstate.DataProvider.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\obj\Debug\net7.0\RealEstate.DataProvider.pdb
+C:\Source\RealEstate.API\Infrastructure\RealEstate.DataProvider\obj\Debug\net7.0\ref\RealEstate.DataProvider.dll

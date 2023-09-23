@@ -1,0 +1,12 @@
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\bin\Debug\net7.0\RealEstate.Helper.deps.json
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\bin\Debug\net7.0\RealEstate.Helper.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\bin\Debug\net7.0\RealEstate.Helper.pdb
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\obj\Debug\net7.0\RealEstate.Helper.csproj.AssemblyReference.cache
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\obj\Debug\net7.0\RealEstate.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\obj\Debug\net7.0\RealEstate.Helper.AssemblyInfoInputs.cache
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\obj\Debug\net7.0\RealEstate.Helper.AssemblyInfo.cs
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\obj\Debug\net7.0\RealEstate.Helper.csproj.CoreCompileInputs.cache
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\obj\Debug\net7.0\RealEstate.Helper.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\obj\Debug\net7.0\refint\RealEstate.Helper.dll
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\obj\Debug\net7.0\RealEstate.Helper.pdb
+C:\Source\RealEstate.API\Infrastructure\RealEstate.Helper\obj\Debug\net7.0\ref\RealEstate.Helper.dll
